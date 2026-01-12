@@ -1,0 +1,7 @@
+{
+  "name": "Royale | Business Suite",
+  "description": "An offline-first, mobile-optimized inventory and sales management system designed for small retail shops in emerging markets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
